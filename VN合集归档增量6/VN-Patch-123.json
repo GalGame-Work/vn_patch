@@ -1,0 +1,141 @@
+{
+  "scriptVersion": "local-calculator",
+  "exportVersion": "1.0",
+  "usesBase62EtagsInExport": true,
+  "commonPath": "VN-Patch-Part6",
+  "totalFilesCount": 26,
+  "totalSize": 27598580194,
+  "formattedTotalSize": "25.70 GB",
+  "files": [
+    {
+      "path": "增量.part01.rar",
+      "etag": "1WTh1vRFzG5XmK7RVqeeBp",
+      "size": "1073741824"
+    },
+    {
+      "path": "增量.part02.rar",
+      "etag": "5JQLjB0Q3cFZMFiV3aO6eM",
+      "size": "1073741824"
+    },
+    {
+      "path": "增量.part03.rar",
+      "etag": "54F1Vchu8eoBVBhAoUOjLv",
+      "size": "1073741824"
+    },
+    {
+      "path": "增量.part04.rar",
+      "etag": "1IASiBuLKXqUKgMwp7fk9",
+      "size": "1073741824"
+    },
+    {
+      "path": "增量.part05.rar",
+      "etag": "4qs2tg3dkRa8BQt8kF3wvb",
+      "size": "1073741824"
+    },
+    {
+      "path": "增量.part06.rar",
+      "etag": "31nlYPbK9suhFk8R9dlNIw",
+      "size": "1073741824"
+    },
+    {
+      "path": "增量.part07.rar",
+      "etag": "mMiwyLoamTayENuelZT0q",
+      "size": "1073741824"
+    },
+    {
+      "path": "增量.part08.rar",
+      "etag": "2ABeKx7GDpyN5wPRYwQFm",
+      "size": "1073741824"
+    },
+    {
+      "path": "增量.part09.rar",
+      "etag": "1XaGfW6gcEk0yGU1NwtC4X",
+      "size": "1073741824"
+    },
+    {
+      "path": "增量.part10.rar",
+      "etag": "9lx14O6IEMByV4oR5jAzV",
+      "size": "1073741824"
+    },
+    {
+      "path": "增量.part11.rar",
+      "etag": "41S5ytjr2KG0CunGRh0sJa",
+      "size": "1073741824"
+    },
+    {
+      "path": "增量.part12.rar",
+      "etag": "5NHRg4KT1vmYr6mM4JFGYk",
+      "size": "1073741824"
+    },
+    {
+      "path": "增量.part13.rar",
+      "etag": "4cKtk2H1hhaF3VvswtoHOn",
+      "size": "1073741824"
+    },
+    {
+      "path": "增量.part14.rar",
+      "etag": "TQcu5W4uueke73HiIBsga",
+      "size": "1073741824"
+    },
+    {
+      "path": "增量.part15.rar",
+      "etag": "4VnXCjg9cBf9MZSPNpmR7g",
+      "size": "1073741824"
+    },
+    {
+      "path": "增量.part16.rar",
+      "etag": "7iOGZDSi2v760SEYCNbgad",
+      "size": "1073741824"
+    },
+    {
+      "path": "增量.part17.rar",
+      "etag": "1ep26m5JFujlKLP4pky9Vc",
+      "size": "1073741824"
+    },
+    {
+      "path": "增量.part18.rar",
+      "etag": "371ZmZUHinfWHoOwspWcoP",
+      "size": "1073741824"
+    },
+    {
+      "path": "增量.part19.rar",
+      "etag": "6TbmnyYfSWUkPd3cmtFhOc",
+      "size": "1073741824"
+    },
+    {
+      "path": "增量.part20.rar",
+      "etag": "1mZsowzpxWMPI9j1SXPZdn",
+      "size": "1073741824"
+    },
+    {
+      "path": "增量.part21.rar",
+      "etag": "63qN8ZjNno0ISS480qXHPt",
+      "size": "1073741824"
+    },
+    {
+      "path": "增量.part22.rar",
+      "etag": "6Le6G9HUABSfjwXqhZuCNT",
+      "size": "1073741824"
+    },
+    {
+      "path": "增量.part23.rar",
+      "etag": "3202XGPKMqvfNaefYms33j",
+      "size": "1073741824"
+    },
+    {
+      "path": "增量.part24.rar",
+      "etag": "5gBO0TLfRJfXcd17hQy8oi",
+      "size": "1073741824"
+    },
+    {
+      "path": "增量.part25.rar",
+      "etag": "uTNn4LZi6YYTAZgiqKlTM",
+      "size": "1073741824"
+    },
+    {
+      "path": "增量.part26.rar",
+      "etag": "1smdPrxMn04AtIcrqXyeDf",
+      "size": "755034594"
+    }
+  ]
+}
